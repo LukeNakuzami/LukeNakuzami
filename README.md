@@ -1,18 +1,48 @@
- <h1 align="center">Olá 👋, Eu sou o Lucas.</h1>
-<h3 align="center">Sou apaixonado por análise de dados e Machine Learning</h3>
+<h1 align="center">Olá 👋, eu sou o Lucas</h1>
+<h3 align="center">Analista de Dados com foco em Estratégia, Power BI e Python</h3>
 
-- 🌱 Atualmente estou me especializando em **Python e SQL** para análise de dados
+- 📊 Especialista em **Power BI** para construção de dashboards executivos e operacionais
+- 🐍 Desenvolvo rotinas em **Python** para automações, ETLs e integração com bancos de dados
+- 🧩 Trabalho com **modelagem de dados**, **indicadores de performance** e **estruturação de pipelines de dados**
+- 🛠️ Ferramentas que utilizo no dia a dia: **Power BI, SQL Server, Microsoft Fabric, Python, Azure SQL, Databricks, Spark e n8n**
+- 📫 Entre em contato: **lucas.azevedo.3721@gmail.com**
+- 🌐 Saiba mais sobre minha experiência no [LinkedIn](https://www.linkedin.com/in/lucas-g-8a73aa136/)
 
-- 💬 Me pergunte sobre **Power BI, Python e SQL**
+---
 
-- 📫 Você pode me encontrar através do e-mail **lucas.azevedo.3721@gmail.com**
-
-- 📄 Você pode saber mais sobre minhas experiências acessando o meu Linkedin [www.linkedin.com/in/lucas-g-8a73aa136/](www.linkedin.com/in/lucas-g-8a73aa136/)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/lucas-g-8a73aa136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-g-8a73aa136/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lucas-g-8a73aa136/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="lookerstudio" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/products/azure-sql" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="Azure SQL" width="40" height="40"/>
+  </a>
+  <a href="https://databricks.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/24434550?s=200&v=4" alt="Databricks" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
+  </a>
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+</p>
